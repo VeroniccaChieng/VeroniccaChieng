@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Veronicca
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing
+🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼
+  - 👋 Hi, I’m @Veronicca
+  - 👀 I’m interested in nothing
+  - 🌱 I’m currently learning Java
+
+🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼🐼
   
 
 <!---
